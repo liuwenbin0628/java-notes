@@ -1,6 +1,7 @@
 # Java学习笔记
 
-|Java基础|多线程|JVM|MySQL|算法|
-|---|---|---|---|---|
-|10%|50%|10%|0|60%|
+## 基础
+|Java Base|ultithreading|JVM|MySQL|Algorithm|Design Pattern|Effective Java|
+|---|---|---|---|---|---|---|
+|10%|50%|10%|0|60%|30%|0|
 

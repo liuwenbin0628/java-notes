@@ -10,6 +10,7 @@
         <module name="algorithm-and-datastructure" />
         <module name="concurrency-in-practice" />
         <module name="design-pattern" />
+        <module name="effective-java" />
         <module name="thinking-in-java" />
         <module name="virtual-machine" />
       </profile>
