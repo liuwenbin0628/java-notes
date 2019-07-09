@@ -1,7 +1,12 @@
 # Java学习笔记
 
-## 基础
-|Java Base|ultithreading|JVM|MySQL|Algorithm|Design Pattern|Effective Java|
-|---|---|---|---|---|---|---|
-|10%|50%|10%|0|60%|30%|0|
+### 基础
+|Java Base|ultithreading|JVM|Algorithm|Design Pattern|Effective Java|
+|---|---|---|---|---|---|
+|10%|50%|10%|50%|40%|0|
+
+### 进阶
+|MySQL|Redis|Kafka|Netty|Spring|
+|---|---|---|---|---|
+|0|0|0|0|0|
 

@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ddf545b-f43b-42bc-85cb-99b7cf6fd25a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effective-java/effective-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effective-java/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm-and-datastructure/target/classes/META-INF/algorithm-and-datastructure.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency-in-practice/target/classes/META-INF/concurrency-in-practice.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency-in-practice/target/classes/com/liuwenbin/notes/java/producer_consumer/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency-in-practice/target/classes/com/liuwenbin/notes/java/producer_consumer/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinking-in-java/target/classes/META-INF/thinking-in-java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtual-machine/target/classes/META-INF/virtual-machine.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtual-machine/virtual-machine.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -90,12 +78,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <first_editor relative-caret-position="228">
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -105,17 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/effective-java/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/effective-java/src/main/java/com/liuwenbin/notes/java/hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -157,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithm-and-datastructure/src/main/java/com.liuwenbin.note.java/list/SortList.java" />
         <option value="$PROJECT_DIR$/algorithm-and-datastructure/src/main/java/com.liuwenbin.note.java/string/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/algorithm-and-datastructure/src/main/java/com.liuwenbin.note.java/math/MakeUpMinNumber.java" />
         <option value="$PROJECT_DIR$/algorithm-and-datastructure/src/main/java/com.liuwenbin.note.java/math/GenerateMatrix.java" />
@@ -207,6 +185,7 @@
         <option value="$PROJECT_DIR$/concurrency-in-practice/src/main/java/com/liuwenbin/notes/java/producer_consumer/Demo1.java" />
         <option value="$PROJECT_DIR$/concurrency-in-practice/src/main/java/com/liuwenbin/notes/java/concurrent/CountNumber.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/effective-java/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -327,7 +306,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562689625988" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562690094525" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -514,17 +493,17 @@
       <workItem from="1554703579145" duration="361000" />
       <workItem from="1560218845063" duration="816000" />
       <workItem from="1560270336531" duration="416000" />
-      <workItem from="1562682521293" duration="3417000" />
+      <workItem from="1562682521293" duration="4093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="375691000" />
+    <option name="totallyTimeSpent" value="376367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="58" y="23" width="1622" height="1027" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28227848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28227848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -540,7 +519,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49873418" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49873418" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5012658" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.50481284" />
       <window_info anchor="bottom" id="Problems" order="12" />
@@ -566,20 +545,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm-and-datastructure/src/main/java/com.liuwenbin.note.java/math/Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm-and-datastructure/src/main/java/com.liuwenbin.note.java/math/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm-and-datastructure/src/main/java/com.liuwenbin.note.java/search/FindContinuousSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -912,20 +877,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/effective-java/src/main/java/com/liuwenbin/notes/java/classAndInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/effective-java/src/main/java/com/liuwenbin/notes/java/hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/effective-java/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="228">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
