@@ -1,7 +1,7 @@
 # Java学习笔记
 
 ### 基础
-|Java Base|ultithreading|JVM|Algorithm|Design Pattern|Effective Java|
+|Java Base|Multithread|JVM|Algorithm|Design Pattern|Effective Java|
 |---|---|---|---|---|---|
 |10%|50%|10%|50%|40%|0|
 
