@@ -11,6 +11,8 @@
         <module name="concurrency-in-practice" />
         <module name="design-pattern" />
         <module name="effective-java" />
+        <module name="java8-action" />
+        <module name="java8-in-action" />
         <module name="thinking-in-java" />
         <module name="virtual-machine" />
       </profile>

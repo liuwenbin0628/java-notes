@@ -9,12 +9,20 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <!-- 并发 -->
         <module>concurrency-in-practice</module>
+        <!-- java基础 -->
         <module>thinking-in-java</module>
+        <!-- 设计模式 -->
         <module>design-pattern</module>
+        <!-- 算法&数据结构-->
         <module>algorithm-and-datastructure</module>
+        <!-- 虚拟机 -->
         <module>virtual-machine</module>
+        <!-- effective java -->
         <module>effective-java</module>
+        <!-- java8 实战 -->
+        <module>java8-action</module>
     </modules>
 
     <properties>
